@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavigationUI</string>
+    <string name="home">home</string>
+    <string name="food">food</string>
+    <string name="travel">travel</string>
+    <string name="navigationDrwerOpen">open</string>
+    <string name="navigationDrwerClose">close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="samar_ahmed_al_mahbashi">Samar Ahmed AL-Mahbashi</string>
+    <string name="samar_almh_gmail_com">samar.almh@gmail.com</string>
+</resources>
